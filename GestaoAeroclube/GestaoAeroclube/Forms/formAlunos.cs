@@ -22,7 +22,7 @@ namespace GestaoAeroclube.Forms
 
         private void formAlunos_Load(object sender, EventArgs e)
         {
-            StreamReader doc = new StreamReader(@"C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\Docs\Tabelas\Alunos.txt");
+            StreamReader doc = new StreamReader(@"..\..\Docs\Tabelas\Alunos.txt");
             string linha;
             string[] celula;
 

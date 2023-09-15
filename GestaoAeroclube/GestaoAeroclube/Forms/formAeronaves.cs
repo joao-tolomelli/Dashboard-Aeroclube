@@ -23,7 +23,9 @@ namespace GestaoAeroclube.Forms
 
         private void formAeronaves_Load(object sender, EventArgs e)
         {
-            StreamReader doc = new StreamReader(@"C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\Docs\Tabelas\Aeronaves.txt");
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "Aeronaves.txt");
+            Console.WriteLine(filePath);
+            StreamReader doc = new StreamReader(@"..\..\Docs\Tabelas\Aeronaves.txt");
             string linha;
             string[] celula;
             
