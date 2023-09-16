@@ -1,0 +1,15 @@
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\bin\Debug\GestaoAeroclube.exe.config
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\bin\Debug\GestaoAeroclube.exe
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\bin\Debug\GestaoAeroclube.pdb
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.csproj.AssemblyReference.cache
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.csproj.SuggestedBindingRedirects.cache
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.Form1.resources
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.Properties.Resources.resources
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.csproj.GenerateResource.cache
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.csproj.CoreCompileInputs.cache
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.exe
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.pdb
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.Forms.formAeronaves.resources
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.Forms.formAlunos.resources
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.Forms.formInstrutores.resources
+C:\Users\twins\source\repos\GestaoAeroclube\GestaoAeroclube\obj\Debug\GestaoAeroclube.Forms.formAluguel.resources
